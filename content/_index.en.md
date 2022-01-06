@@ -1,14 +1,22 @@
 ---
-title: "Learn Theme for Hugo"
+title: "Doctothon Cloud Team's Documentation"
 ---
 
-# Hugo learn theme
+# Doctothon Cloud Team Portal !
 
-[Hugo-theme-learn](http://github.com/matcornic/hugo-theme-learn) is a theme for [Hugo](https://gohugo.io/), a fast and modern static website engine written in Go. Where Hugo is often used for blogs, this multilingual-ready theme is **fully designed for documentation**.
+### _You will find no livestream here_
 
-This theme is a partial porting of the [Learn theme](http://learn.getgrav.org/) of [Grav](https://getgrav.org/), a modern flat-file CMS written in PHP.
+Welcome to Doctothon Cloud Team's Documentation !
 
-{{% notice tip %}}Learn theme works with a _page tree structure_ to organize content : All contents are pages, which belong to other pages. [read more about this]({{%relref "cont/pages/_index.md"%}}) 
+This website is the reference documentation maintained by the Doctothon Cloud Team, and used by both the Doctothon Cloud Team members , and the open-source contributors.
+
+Here, those people find :
+* Reference workflows, like the git Workflows used in each repository.
+* Case Studies
+* Technical Guides
+* and soon much more!
+
+{{% notice tip %}}Learn theme works with a _page tree structure_ to organize content : All contents are pages, which belong to other pages. [read more about this]({{%relref "cont/pages/_index.md"%}})
 {{% /notice %}}
 
 ## Main features
