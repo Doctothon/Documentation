@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# ---
+
 if [ -d content/ ]; then
   rm -fr content/
 fi;
