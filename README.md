@@ -1,4 +1,4 @@
-# The Doctothon Open Technical Documentaion
+# The Doctothon Open Technical Documentation
 
 This repository version controls the code source of a wbesite, which is the Doctothon Technical Documentation :
 * In this documentation, everything is open: the open source contributors need a proper documentation  : we help them, they might help us, we don't help them, they certainly will not help us.
