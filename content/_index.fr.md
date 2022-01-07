@@ -1,11 +1,8 @@
 ---
-title: "Learn Theme for Hugo"
----
----
-title: "Doctothon Cloud Team's Documentation"
+title: "Portail de Documentation de l'équipe Cloud Doctothon"
 ---
 
-# Documentation de référence de l'équipe Cloud du Doctothon
+# Documentation de référence de l'équipe Cloud Doctothon
 
 Bienvenue dans la Documentation de référence de l'équipe Cloud du Doctothon !
 
