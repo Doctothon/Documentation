@@ -178,6 +178,74 @@
                 href="https://doctothon.github.io/documentation/en/cont/tags/"
                 />
   </url><url>
+    <loc>https://doctothon.github.io/documentation/en/gitworkflows/git-ssh-gpg/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://doctothon.github.io/documentation/fr/gitworkflows/git-ssh-gpg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://doctothon.github.io/documentation/en/gitworkflows/git-ssh-gpg/"
+                />
+  </url><url>
+    <loc>https://doctothon.github.io/documentation/en/gitworkflows/git-flow/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://doctothon.github.io/documentation/fr/gitworkflows/git-flow/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://doctothon.github.io/documentation/en/gitworkflows/git-flow/"
+                />
+  </url><url>
+    <loc>https://doctothon.github.io/documentation/en/gitworkflows/</loc>
+    <lastmod>2017-04-09T16:50:16+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://doctothon.github.io/documentation/fr/gitworkflows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://doctothon.github.io/documentation/zh/gitworkflows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://doctothon.github.io/documentation/en/gitworkflows/"
+                />
+  </url><url>
+    <loc>https://doctothon.github.io/documentation/en/gitworkflows/cicd-git/</loc>
+    <lastmod>2017-04-09T16:50:16+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://doctothon.github.io/documentation/fr/gitworkflows/cicd-git/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://doctothon.github.io/documentation/en/gitworkflows/cicd-git/"
+                />
+  </url><url>
+    <loc>https://doctothon.github.io/documentation/en/gitworkflows/the-git/</loc>
+    <lastmod>2017-04-09T16:50:16+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://doctothon.github.io/documentation/fr/gitworkflows/the-git/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://doctothon.github.io/documentation/en/gitworkflows/the-git/"
+                />
+  </url><url>
     <loc>https://doctothon.github.io/documentation/en/</loc>
     <lastmod>2020-06-01T13:31:12+01:00</lastmod>
     <xhtml:link

@@ -1107,6 +1107,16 @@ pre .copy-to-clipboard:hover {
     list-style: none;
 }
 
+#doctothonAndGoHugoMenu li {
+    padding: 2px 0;
+    list-style: none;
+}
+
+#doctothonPortalMenu li {
+    padding: 2px 0;
+    list-style: none;
+}
+
 #sidebar ul li .read-icon {
     display: none;
     float: right;
@@ -1121,6 +1131,42 @@ pre .copy-to-clipboard:hover {
 }
 
 #sidebar #shortcuts h3 {
+    font-family: "Novacento Sans Wide", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+    color: white ;
+    margin-top:1rem;
+    padding-left: 1rem;
+}
+
+#doctothonAndGoHugoMenu h3 {
+    font-family: "Novacento Sans Wide", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+    color: white ;
+    margin-top:1rem;
+    padding-left: 1rem;
+}
+
+#doctothonPortalMenu h3 {
+    font-family: "Novacento Sans Wide", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+    color: white ;
+    margin-top:1rem;
+    padding-left: 1rem;
+}
+
+#doctothonPortalMenu h3 {
+    font-family: "Novacento Sans Wide", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+    color: white ;
+    margin-top:1rem;
+    padding-left: 1rem;
+}
+
+#doctothonPortalMenu h3 {
+    font-family: "Novacento Sans Wide", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+    color: white ;
+    margin-top:1rem;
+    padding-left: 1rem;
+}
+
+
+#doctothonPortalMenu h3 {
     font-family: "Novacento Sans Wide", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
     color: white ;
     margin-top:1rem;

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>All About Git on Doctothon Cloud Team&#39;s Documentation</title>
+    <link>https://doctothon.github.io/documentation/en/gitworkflows/</link>
+    <description>Recent content in All About Git on Doctothon Cloud Team&#39;s Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 09 Apr 2017 16:50:16 +0200</lastBuildDate><atom:link href="https://doctothon.github.io/documentation/en/gitworkflows/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

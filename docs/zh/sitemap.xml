@@ -19,6 +19,23 @@
                 href="https://doctothon.github.io/documentation/zh/basics/"
                 />
   </url><url>
+    <loc>https://doctothon.github.io/documentation/zh/gitworkflows/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://doctothon.github.io/documentation/en/gitworkflows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://doctothon.github.io/documentation/fr/gitworkflows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://doctothon.github.io/documentation/zh/gitworkflows/"
+                />
+  </url><url>
     <loc>https://doctothon.github.io/documentation/zh/categories/</loc>
     <xhtml:link
                 rel="alternate"
