@@ -9,9 +9,23 @@ The first tutorial you should complete, if you want to discover [Hugo](https://g
 
 ## Steps
 
-	{{%/* children  */%}}
 
 
+
+{{% children depth="3" showhidden="true" description="true" %}}
+
+<!--
+{{% children %}}
+
+
+{{% children style="h2" depth="3" description="true" %}}
+{{%children description="true" %}}
+
+{{% children depth="3" showhidden="true" %}}
+
+
+{{% children style="div" depth="999" %}}
+-->
 
 <!--
 
