@@ -23,7 +23,7 @@ npm i
 
 export HUGO_SERVICES_INSTAGRAM_ACCESSTOKEN=BGvuInzyFAe
 export PATH=$PATH:/usr/local/go/bin && go version
-hugo serve -b http://127.0.0.1:4545 -p 4545 --bind 127.0.0.1 -w
+hugo serve -b http://127.0.0.1:4646 -p 4646 --bind 127.0.0.1 -w
 
 ```
 
@@ -47,7 +47,7 @@ npm run clean && npm run spawn
 ```bash
 export HUGO_SERVICES_INSTAGRAM_ACCESSTOKEN=BGvuInzyFAe
 export PATH=$PATH:/usr/local/go/bin
-hugo serve -b http://127.0.0.1:4545 -p 4545 --bind 127.0.0.1 -w
+hugo serve -b http://127.0.0.1:4646 -p 4646 --bind 127.0.0.1 -w
 ```
 
 ## How-to: Add a new bot

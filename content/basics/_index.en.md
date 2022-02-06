@@ -1,12 +1,13 @@
 ---
-title: Basics
+title: Overview
 weight: 5
 pre: "<b>1. </b>"
 chapter: true
+draft: true
 ---
 
-### Chapter 1 JB
+### Chapter 1
 
-# Basics
+# Overview
 
-Discover what this Hugo theme is all about and the core-concepts behind it.
+In this Chapter, we will describer the global structure of this website, called the _"Docto Doc"_ documentation.
