@@ -26,6 +26,8 @@
 
     <!-- just for the carousel component -->
     <link href="{{"css/yellow-carousel.css" | relURL}}{{ if $assetBusting }}?{{ now.Unix }}{{ end }}" rel="stylesheet">
+    <!-- toi override the css for the source code snippets in doc -->
+    <link href="{{"css/hljscustom.css" | relURL}}{{ if $assetBusting }}?{{ now.Unix }}{{ end }}" rel="stylesheet">
 
     {{with .Site.Params.themeVariant}}
     <link href="{{(printf "css/theme-%s.css" .) | relURL}}{{ if $assetBusting }}?{{ now.Unix }}{{ end }}" rel="stylesheet">
@@ -33,6 +35,9 @@
     {{ range .Site.Params.custom_css -}}
     <link href="{{(printf "%s" .) | relURL}}{{ if $assetBusting }}?{{ now.Unix }}{{ end }}" rel="stylesheet">
     {{- end }}
+
+
+
 
     <script src="{{"js/jquery-3.3.1.min.js"| relURL}}{{ if $assetBusting }}?{{ now.Unix }}{{ end }}"></script>
 
