@@ -1,7 +1,7 @@
 ---
 date: 2017-04-09T16:50:16+02:00
 title: "CI/CD and Git"
-weight: 107
+weight: 207
 ---
 
 ## Global site parameters

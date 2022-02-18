@@ -1,6 +1,6 @@
 ---
 title: "Ze Git Flow"
-weight: 106
+weight: 206
 ---
 
 Les étapes suivantes sont là pour vous aider à initialiser votre site. Si vous ne connaissez pas du tout Hugo, il est fortement conseillé de vous entrainer en suivant ce [super tuto pour débutants](https://gohugo.io/overview/quickstart/).

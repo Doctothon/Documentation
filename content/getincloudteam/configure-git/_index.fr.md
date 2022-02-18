@@ -1,6 +1,6 @@
 ---
 title: "Configure Git"
-weight: 103
+weight: 203
 disableToc: true
 ---
 

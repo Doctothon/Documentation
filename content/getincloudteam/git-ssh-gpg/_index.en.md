@@ -1,6 +1,6 @@
 ---
 title: "Git, SSH, GnuPG"
-weight: 105
+weight: 205
 disableToc: true
 ---
 
