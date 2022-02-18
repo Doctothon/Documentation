@@ -2,89 +2,106 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://doctothon.github.io/documentation/zh/basics/</loc>
+    <loc>https://doctodoc.surge.sh/zh/basics/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/basics/"
+                href="https://doctodoc.surge.sh/en/basics/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/basics/"
+                href="https://doctodoc.surge.sh/fr/basics/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://doctothon.github.io/documentation/zh/basics/"
+                href="https://doctodoc.surge.sh/zh/basics/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/zh/gitworkflows/</loc>
+    <loc>https://doctodoc.surge.sh/zh/gitworkflows/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/gitworkflows/"
+                href="https://doctodoc.surge.sh/en/gitworkflows/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/gitworkflows/"
+                href="https://doctodoc.surge.sh/fr/gitworkflows/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://doctothon.github.io/documentation/zh/gitworkflows/"
+                href="https://doctodoc.surge.sh/zh/gitworkflows/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/zh/categories/</loc>
+    <loc>https://doctodoc.surge.sh/zh/getincloudteam/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/categories/"
+                href="https://doctodoc.surge.sh/en/getincloudteam/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/categories/"
+                href="https://doctodoc.surge.sh/fr/getincloudteam/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://doctothon.github.io/documentation/zh/categories/"
+                href="https://doctodoc.surge.sh/zh/getincloudteam/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/zh/</loc>
+    <loc>https://doctodoc.surge.sh/zh/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/"
+                href="https://doctodoc.surge.sh/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/"
+                href="https://doctodoc.surge.sh/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://doctothon.github.io/documentation/zh/"
+                href="https://doctodoc.surge.sh/zh/categories/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/zh/tags/</loc>
+    <loc>https://doctodoc.surge.sh/zh/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/tags/"
+                href="https://doctodoc.surge.sh/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/tags/"
+                href="https://doctodoc.surge.sh/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://doctothon.github.io/documentation/zh/tags/"
+                href="https://doctodoc.surge.sh/zh/"
+                />
+  </url><url>
+    <loc>https://doctodoc.surge.sh/zh/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://doctodoc.surge.sh/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://doctodoc.surge.sh/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://doctodoc.surge.sh/zh/tags/"
                 />
   </url>
 </urlset>

@@ -2,555 +2,719 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://doctothon.github.io/documentation/en/basics/</loc>
+    <loc>https://doctodoc.surge.sh/en/basics/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/basics/"
+                href="https://doctodoc.surge.sh/fr/basics/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://doctothon.github.io/documentation/zh/basics/"
+                href="https://doctodoc.surge.sh/zh/basics/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/basics/"
+                href="https://doctodoc.surge.sh/en/basics/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/cont/pages/</loc>
+    <loc>https://doctodoc.surge.sh/en/cont/pages/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/cont/pages/"
+                href="https://doctodoc.surge.sh/fr/cont/pages/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/cont/pages/"
+                href="https://doctodoc.surge.sh/en/cont/pages/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/cont/</loc>
+    <loc>https://doctodoc.surge.sh/en/cont/</loc>
     <lastmod>2020-06-01T13:31:12+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/cont/"
+                href="https://doctodoc.surge.sh/fr/cont/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/cont/"
+                href="https://doctodoc.surge.sh/en/cont/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/cont/archetypes/</loc>
+    <loc>https://doctodoc.surge.sh/en/cont/archetypes/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/cont/archetypes/"
+                href="https://doctodoc.surge.sh/fr/cont/archetypes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/cont/archetypes/"
+                href="https://doctodoc.surge.sh/en/cont/archetypes/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/basics/requirements/</loc>
+    <loc>https://doctodoc.surge.sh/en/basics/requirements/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/basics/requirements/"
+                href="https://doctodoc.surge.sh/fr/basics/requirements/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/basics/requirements/"
+                href="https://doctodoc.surge.sh/en/basics/requirements/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/cont/markdown/</loc>
+    <loc>https://doctodoc.surge.sh/en/cont/markdown/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/cont/markdown/"
+                href="https://doctodoc.surge.sh/fr/cont/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/cont/markdown/"
+                href="https://doctodoc.surge.sh/en/cont/markdown/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/shortcodes/</loc>
+    <loc>https://doctodoc.surge.sh/en/shortcodes/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/shortcodes/"
+                href="https://doctodoc.surge.sh/fr/shortcodes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/shortcodes/"
+                href="https://doctodoc.surge.sh/en/shortcodes/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/basics/installation/</loc>
+    <loc>https://doctodoc.surge.sh/en/basics/installation/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/basics/installation/"
+                href="https://doctodoc.surge.sh/fr/basics/installation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/basics/installation/"
+                href="https://doctodoc.surge.sh/en/basics/installation/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/cont/syntaxhighlight/</loc>
+    <loc>https://doctodoc.surge.sh/en/cont/syntaxhighlight/</loc>
     <lastmod>2020-06-01T13:31:12+01:00</lastmod>
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/basics/configuration/</loc>
+    <loc>https://doctodoc.surge.sh/en/basics/configuration/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/basics/configuration/"
+                href="https://doctodoc.surge.sh/fr/basics/configuration/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/basics/configuration/"
+                href="https://doctodoc.surge.sh/en/basics/configuration/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/cont/menushortcuts/</loc>
+    <loc>https://doctodoc.surge.sh/en/cont/menushortcuts/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/cont/menushortcuts/"
+                href="https://doctodoc.surge.sh/fr/cont/menushortcuts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/cont/menushortcuts/"
+                href="https://doctodoc.surge.sh/en/cont/menushortcuts/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/basics/style-customization/</loc>
+    <loc>https://doctodoc.surge.sh/en/basics/style-customization/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/basics/style-customization/"
+                href="https://doctodoc.surge.sh/fr/basics/style-customization/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/basics/style-customization/"
+                href="https://doctodoc.surge.sh/en/basics/style-customization/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/cont/icons/</loc>
+    <loc>https://doctodoc.surge.sh/en/cont/icons/</loc>
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/cont/i18n/</loc>
+    <loc>https://doctodoc.surge.sh/en/cont/i18n/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/cont/i18n/"
+                href="https://doctodoc.surge.sh/fr/cont/i18n/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/cont/i18n/"
+                href="https://doctodoc.surge.sh/en/cont/i18n/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/cont/tags/</loc>
+    <loc>https://doctodoc.surge.sh/en/cont/tags/</loc>
     <lastmod>2018-11-29T08:41:44+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/cont/tags/"
+                href="https://doctodoc.surge.sh/fr/cont/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/cont/tags/"
+                href="https://doctodoc.surge.sh/en/cont/tags/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/gitworkflows/git-ssh-gpg/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/gitworkflows/git-ssh-gpg/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://doctothon.github.io/documentation/en/gitworkflows/git-ssh-gpg/"
-                />
-  </url><url>
-    <loc>https://doctothon.github.io/documentation/en/gitworkflows/git-flow/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/gitworkflows/git-flow/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://doctothon.github.io/documentation/en/gitworkflows/git-flow/"
-                />
-  </url><url>
-    <loc>https://doctothon.github.io/documentation/en/gitworkflows/</loc>
+    <loc>https://doctodoc.surge.sh/en/gitworkflows/</loc>
     <lastmod>2017-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/gitworkflows/"
+                href="https://doctodoc.surge.sh/fr/gitworkflows/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://doctothon.github.io/documentation/zh/gitworkflows/"
+                href="https://doctodoc.surge.sh/zh/gitworkflows/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/gitworkflows/"
+                href="https://doctodoc.surge.sh/en/gitworkflows/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/gitworkflows/cicd-git/</loc>
+    <loc>https://doctodoc.surge.sh/en/gitworkflows/install-git/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://doctodoc.surge.sh/fr/gitworkflows/install-git/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://doctodoc.surge.sh/en/gitworkflows/install-git/"
+                />
+  </url><url>
+    <loc>https://doctodoc.surge.sh/en/gitworkflows/configure-git/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://doctodoc.surge.sh/fr/gitworkflows/configure-git/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://doctodoc.surge.sh/en/gitworkflows/configure-git/"
+                />
+  </url><url>
+    <loc>https://doctodoc.surge.sh/en/gitworkflows/install-git-flow/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://doctodoc.surge.sh/fr/gitworkflows/install-git-flow/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://doctodoc.surge.sh/en/gitworkflows/install-git-flow/"
+                />
+  </url><url>
+    <loc>https://doctodoc.surge.sh/en/gitworkflows/git-ssh-gpg/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://doctodoc.surge.sh/fr/gitworkflows/git-ssh-gpg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://doctodoc.surge.sh/en/gitworkflows/git-ssh-gpg/"
+                />
+  </url><url>
+    <loc>https://doctodoc.surge.sh/en/gitworkflows/git-flow/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://doctodoc.surge.sh/fr/gitworkflows/git-flow/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://doctodoc.surge.sh/en/gitworkflows/git-flow/"
+                />
+  </url><url>
+    <loc>https://doctodoc.surge.sh/en/gitworkflows/cicd-git/</loc>
     <lastmod>2017-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/gitworkflows/cicd-git/"
+                href="https://doctodoc.surge.sh/fr/gitworkflows/cicd-git/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/gitworkflows/cicd-git/"
+                href="https://doctodoc.surge.sh/en/gitworkflows/cicd-git/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/gitworkflows/the-git/</loc>
+    <loc>https://doctodoc.surge.sh/en/gitworkflows/the-git/</loc>
     <lastmod>2017-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/gitworkflows/the-git/"
+                href="https://doctodoc.surge.sh/fr/gitworkflows/the-git/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/gitworkflows/the-git/"
+                href="https://doctodoc.surge.sh/en/gitworkflows/the-git/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/</loc>
+    <loc>https://doctodoc.surge.sh/en/gitworkflows/emoji-support/</loc>
+    <lastmod>2017-04-09T16:50:16+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://doctodoc.surge.sh/fr/gitworkflows/emoji-support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://doctodoc.surge.sh/en/gitworkflows/emoji-support/"
+                />
+  </url><url>
+    <loc>https://doctodoc.surge.sh/en/getincloudteam/</loc>
+    <lastmod>2017-04-09T16:50:16+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://doctodoc.surge.sh/fr/getincloudteam/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://doctodoc.surge.sh/zh/getincloudteam/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://doctodoc.surge.sh/en/getincloudteam/"
+                />
+  </url><url>
+    <loc>https://doctodoc.surge.sh/en/getincloudteam/2.install-git/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://doctodoc.surge.sh/fr/getincloudteam/2.install-git/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://doctodoc.surge.sh/en/getincloudteam/2.install-git/"
+                />
+  </url><url>
+    <loc>https://doctodoc.surge.sh/en/getincloudteam/3.git-ssh/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://doctodoc.surge.sh/fr/getincloudteam/3.git-ssh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://doctodoc.surge.sh/en/getincloudteam/3.git-ssh/"
+                />
+  </url><url>
+    <loc>https://doctodoc.surge.sh/en/getincloudteam/4.git-gpg/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://doctodoc.surge.sh/fr/getincloudteam/4.git-gpg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://doctodoc.surge.sh/en/getincloudteam/4.git-gpg/"
+                />
+  </url><url>
+    <loc>https://doctodoc.surge.sh/en/getincloudteam/5.configure-git/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://doctodoc.surge.sh/fr/getincloudteam/5.configure-git/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://doctodoc.surge.sh/en/getincloudteam/5.configure-git/"
+                />
+  </url><url>
+    <loc>https://doctodoc.surge.sh/en/getincloudteam/6.install-git-flow/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://doctodoc.surge.sh/fr/getincloudteam/6.install-git-flow/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://doctodoc.surge.sh/en/getincloudteam/6.install-git-flow/"
+                />
+  </url><url>
+    <loc>https://doctodoc.surge.sh/en/getincloudteam/8.install-nodejs/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://doctodoc.surge.sh/fr/getincloudteam/8.install-nodejs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://doctodoc.surge.sh/en/getincloudteam/8.install-nodejs/"
+                />
+  </url><url>
+    <loc>https://doctodoc.surge.sh/en/getincloudteam/10.go-docto-hugo/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://doctodoc.surge.sh/fr/getincloudteam/10.go-docto-hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://doctodoc.surge.sh/en/getincloudteam/10.go-docto-hugo/"
+                />
+  </url><url>
+    <loc>https://doctodoc.surge.sh/en/getincloudteam/12.cicd-git/</loc>
+    <lastmod>2017-04-09T16:50:16+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://doctodoc.surge.sh/fr/getincloudteam/12.cicd-git/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://doctodoc.surge.sh/en/getincloudteam/12.cicd-git/"
+                />
+  </url><url>
+    <loc>https://doctodoc.surge.sh/en/</loc>
     <lastmod>2020-06-01T13:31:12+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/"
+                href="https://doctodoc.surge.sh/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://doctothon.github.io/documentation/zh/"
+                href="https://doctodoc.surge.sh/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/"
+                href="https://doctodoc.surge.sh/en/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/tags/documentation/</loc>
+    <loc>https://doctodoc.surge.sh/en/tags/documentation/</loc>
     <lastmod>2018-11-29T08:41:44+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/tags/documentation/"
+                href="https://doctodoc.surge.sh/fr/tags/documentation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/tags/documentation/"
+                href="https://doctodoc.surge.sh/en/tags/documentation/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/tags/</loc>
+    <loc>https://doctodoc.surge.sh/en/tags/</loc>
     <lastmod>2018-11-29T08:41:44+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/tags/"
+                href="https://doctodoc.surge.sh/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://doctothon.github.io/documentation/zh/tags/"
+                href="https://doctodoc.surge.sh/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/tags/"
+                href="https://doctodoc.surge.sh/en/tags/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/tags/tutorial/</loc>
+    <loc>https://doctodoc.surge.sh/en/tags/tutorial/</loc>
     <lastmod>2018-11-29T08:41:44+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/tags/tutorial/"
+                href="https://doctodoc.surge.sh/fr/tags/tutorial/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/tags/tutorial/"
+                href="https://doctodoc.surge.sh/en/tags/tutorial/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/shortcodes/attachments/</loc>
+    <loc>https://doctodoc.surge.sh/en/shortcodes/attachments/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/shortcodes/attachments/"
+                href="https://doctodoc.surge.sh/fr/shortcodes/attachments/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/shortcodes/attachments/"
+                href="https://doctodoc.surge.sh/en/shortcodes/attachments/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/shortcodes/button/</loc>
+    <loc>https://doctodoc.surge.sh/en/shortcodes/button/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/shortcodes/button/"
+                href="https://doctodoc.surge.sh/fr/shortcodes/button/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/shortcodes/button/"
+                href="https://doctodoc.surge.sh/en/shortcodes/button/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/categories/</loc>
+    <loc>https://doctodoc.surge.sh/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/categories/"
+                href="https://doctodoc.surge.sh/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://doctothon.github.io/documentation/zh/categories/"
+                href="https://doctodoc.surge.sh/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/categories/"
+                href="https://doctodoc.surge.sh/en/categories/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/shortcodes/children/</loc>
+    <loc>https://doctodoc.surge.sh/en/shortcodes/children/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/shortcodes/children/"
+                href="https://doctodoc.surge.sh/fr/shortcodes/children/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/shortcodes/children/"
+                href="https://doctodoc.surge.sh/en/shortcodes/children/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/credits/</loc>
+    <loc>https://doctodoc.surge.sh/en/credits/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/credits/"
+                href="https://doctodoc.surge.sh/fr/credits/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/credits/"
+                href="https://doctodoc.surge.sh/en/credits/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/shortcodes/expand/</loc>
+    <loc>https://doctodoc.surge.sh/en/shortcodes/expand/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/shortcodes/expand/"
+                href="https://doctodoc.surge.sh/fr/shortcodes/expand/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/shortcodes/expand/"
+                href="https://doctodoc.surge.sh/en/shortcodes/expand/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/shortcodes/mermaid/</loc>
+    <loc>https://doctodoc.surge.sh/en/shortcodes/mermaid/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/shortcodes/mermaid/"
+                href="https://doctodoc.surge.sh/fr/shortcodes/mermaid/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/shortcodes/mermaid/"
+                href="https://doctodoc.surge.sh/en/shortcodes/mermaid/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/shortcodes/notice/</loc>
+    <loc>https://doctodoc.surge.sh/en/shortcodes/notice/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/shortcodes/notice/"
+                href="https://doctodoc.surge.sh/fr/shortcodes/notice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/shortcodes/notice/"
+                href="https://doctodoc.surge.sh/en/shortcodes/notice/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/shortcodes/children/children-1/</loc>
+    <loc>https://doctodoc.surge.sh/en/shortcodes/children/children-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/shortcodes/children/children-1/"
+                href="https://doctodoc.surge.sh/fr/shortcodes/children/children-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/shortcodes/children/children-1/"
+                href="https://doctodoc.surge.sh/en/shortcodes/children/children-1/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/shortcodes/children/children-1/children-1-1/</loc>
+    <loc>https://doctodoc.surge.sh/en/shortcodes/children/children-1/children-1-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/shortcodes/children/children-1/children-1-1/"
+                href="https://doctodoc.surge.sh/fr/shortcodes/children/children-1/children-1-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/shortcodes/children/children-1/children-1-1/"
+                href="https://doctodoc.surge.sh/en/shortcodes/children/children-1/children-1-1/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/shortcodes/children/children-1/children-1-1/children-1-1-1/</loc>
+    <loc>https://doctodoc.surge.sh/en/shortcodes/children/children-1/children-1-1/children-1-1-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/shortcodes/children/children-1/children-1-1/children-1-1-1/"
+                href="https://doctodoc.surge.sh/fr/shortcodes/children/children-1/children-1-1/children-1-1-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/shortcodes/children/children-1/children-1-1/children-1-1-1/"
+                href="https://doctodoc.surge.sh/en/shortcodes/children/children-1/children-1-1/children-1-1-1/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/</loc>
+    <loc>https://doctodoc.surge.sh/en/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/"
+                href="https://doctodoc.surge.sh/fr/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/"
+                href="https://doctodoc.surge.sh/en/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/</loc>
+    <loc>https://doctodoc.surge.sh/en/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/"
+                href="https://doctodoc.surge.sh/fr/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/"
+                href="https://doctodoc.surge.sh/en/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/shortcodes/children/children-2/</loc>
+    <loc>https://doctodoc.surge.sh/en/shortcodes/children/children-2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/shortcodes/children/children-2/"
+                href="https://doctodoc.surge.sh/fr/shortcodes/children/children-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/shortcodes/children/children-2/"
+                href="https://doctodoc.surge.sh/en/shortcodes/children/children-2/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/shortcodes/children/children-3/</loc>
+    <loc>https://doctodoc.surge.sh/en/shortcodes/children/children-3/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/shortcodes/children/children-3/"
+                href="https://doctodoc.surge.sh/fr/shortcodes/children/children-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/shortcodes/children/children-3/"
+                href="https://doctodoc.surge.sh/en/shortcodes/children/children-3/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/shortcodes/children/children-4/</loc>
+    <loc>https://doctodoc.surge.sh/en/shortcodes/children/children-4/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/shortcodes/children/children-4/"
+                href="https://doctodoc.surge.sh/fr/shortcodes/children/children-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/shortcodes/children/children-4/"
+                href="https://doctodoc.surge.sh/en/shortcodes/children/children-4/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/shortcodes/children/test/</loc>
+    <loc>https://doctodoc.surge.sh/en/shortcodes/children/test/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/shortcodes/children/test/"
+                href="https://doctodoc.surge.sh/fr/shortcodes/children/test/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/shortcodes/children/test/"
+                href="https://doctodoc.surge.sh/en/shortcodes/children/test/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/shortcodes/children/children-2/test3/</loc>
+    <loc>https://doctodoc.surge.sh/en/shortcodes/children/children-2/test3/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/shortcodes/children/children-2/test3/"
+                href="https://doctodoc.surge.sh/fr/shortcodes/children/children-2/test3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/shortcodes/children/children-2/test3/"
+                href="https://doctodoc.surge.sh/en/shortcodes/children/children-2/test3/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/showcase/</loc>
+    <loc>https://doctodoc.surge.sh/en/showcase/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/vitrine/"
+                href="https://doctodoc.surge.sh/fr/vitrine/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/showcase/"
+                href="https://doctodoc.surge.sh/en/showcase/"
                 />
   </url><url>
-    <loc>https://doctothon.github.io/documentation/en/shortcodes/siteparam/</loc>
+    <loc>https://doctodoc.surge.sh/en/shortcodes/siteparam/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://doctothon.github.io/documentation/fr/shortcodes/siteparam/"
+                href="https://doctodoc.surge.sh/fr/shortcodes/siteparam/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://doctothon.github.io/documentation/en/shortcodes/siteparam/"
+                href="https://doctodoc.surge.sh/en/shortcodes/siteparam/"
                 />
   </url>
 </urlset>

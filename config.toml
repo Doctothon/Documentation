@@ -10,8 +10,8 @@ defaultContentLanguageInSubdir= true
 
 [params]
   editURL = "https://github.com/Doctothon/documentation/edit/master/content/"
-  description = "THe Doctothon Cloud Team's Documentation"
-  author = "Mathieu Cornic"
+  description = "The Doctothon Cloud Team's Documentation"
+  author = "The Doctothon Cloud Team"
   showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false
@@ -48,7 +48,7 @@ url = "/credits"
 weight = 30
 
 [Languages.fr]
-title = "Documentation du thème Hugo Learn"
+title = "Documentation de référence de la Team Cloud Doctothon"
 weight = 2
 languageName = "Français"
 
