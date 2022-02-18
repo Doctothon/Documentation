@@ -1,6 +1,6 @@
 ---
-title: "Git, SSH, GnuPG"
-weight: 105
+title: "Install the Git Flow"
+weight: 104
 disableToc: true
 ---
 

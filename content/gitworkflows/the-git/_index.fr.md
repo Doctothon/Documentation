@@ -1,8 +1,10 @@
 ---
 date: 2017-04-09T16:50:16+02:00
-title: "Git en 300 secondes"
-weight: 125
+title: "[Git-300]"
+weight: 155
 ---
+
+#### (Git en 300 secondes)
 
 **Hugo-theme-learn** a été conçu pour être aussi configurable que possible en définissant plusieurs [partials](https://gohugo.io/templates/partials/)
 

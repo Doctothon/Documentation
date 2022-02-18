@@ -1,6 +1,6 @@
 ---
-title: "Git, SSH, GnuPG"
-weight: 105
+title: "Install Git"
+weight: 103
 disableToc: true
 ---
 

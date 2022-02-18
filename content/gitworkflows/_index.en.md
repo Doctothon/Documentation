@@ -1,6 +1,6 @@
 ---
 title: "All About Git"
-weight: 104
+weight: 101
 pre: "<b>1. </b>"
 chapter: true
 ---

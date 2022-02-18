@@ -1,28 +1,15 @@
 #!/bin/bash
 export doctothon_ENV=${doctothon_ENV:-"staging"}
 source .${doctothon_ENV}.env
-# export HUGO_THEME_GIT_SSH=${HUGO_THEME_GIT_SSH:-"git@github.com:themefisher/airspace-hugo.git"}
-# export HUGO_THEME_GIT_SSH=${HUGO_THEME_GIT_SSH:-"git@github.com:zhaohuabing/hugo-theme-cleanwhite.git"}
-# export HUGO_THEME_GIT_SSH=${HUGO_THEME_GIT_SSH:-"git@github.com:gethugothemes/infinity-hugo.git"}
-# export HUGO_THEME_GIT_SSH=${HUGO_THEME_GIT_SSH:-"git@github.com:rz3n/hugo-theme-freshstart.git"}
-# export HUGO_THEME_GIT_SSH=${HUGO_THEME_GIT_SSH:-"git@github.com:g1eny0ung/hugo-theme-dream.git"}
-# export HUGO_THEME_GIT_SSH=${HUGO_THEME_GIT_SSH:-"git@gitlab.com:avron/gruvhugo.git"}
-# export HUGO_THEME_GIT_SSH=${HUGO_THEME_GIT_SSH:-"git@github.com:gesquive/slate.git"}
-# export HUGO_THEME_GIT_SSH=${HUGO_THEME_GIT_SSH:-"git@github.com:Fastbyte01/KeepIt.git"}
-# export HUGO_THEME_GIT_SSH=${HUGO_THEME_GIT_SSH:-"git@github.com:GDGToulouse/devfest-theme-hugo.git"}
-# export HUGO_THEME_GIT_SSH=${HUGO_THEME_GIT_SSH:-"git@github.com:12bitvn/news.12bit.vn.git"}
-# export HUGO_THEME_GIT_SSH=${HUGO_THEME_GIT_SSH:-"git@github.com:somratpro/somrat.git"}
-# export HUGO_THEME_GIT_SSH=${HUGO_THEME_GIT_SSH:-"git@github.com:gurusabarish/hugo-profile.git"}
-# export HUGO_THEME_GIT_SSH=${HUGO_THEME_GIT_SSH:-"git@github.com:st-wong/hugo-spectre-pixel-theme.git"}
-# export HUGO_THEME_GIT_SSH=${HUGO_THEME_GIT_SSH:-"git@github.com:jgazeau/shadocs.git"}
-# export HUGO_THEME_GIT_SSH=${HUGO_THEME_GIT_SSH:-"git@github.com:McShelby/hugo-theme-relearn.git"}
+# export HUGO_THEME_GIT_SSH=${HUGO_THEME_GIT_SSH:-"git@github.com:doctothon/hugo-theme-grayscale.git"}
+# export HUGO_THEME_GIT_SSH=${HUGO_THEME_GIT_SSH:-"git@github.com:kakawait/hugo-tranquilpeak-theme.git"}
 export HUGO_THEME_GIT_SSH=${HUGO_THEME_GIT_SSH:-"git@github.com:matcornic/hugo-theme-learn.git"}
 
-
 export HUGO_THEME_VERSION="1.1.0"
-export HUGO_THEME_VERSION="master"
 export HUGO_THEME_VERSION="2.9.2"
-export HUGO_THEME_VERSION="2.5.0"
+export HUGO_THEME_VERSION="master"
+# https://github.com/kakawait/hugo-tranquilpeak-theme/releases/tag/0.5.3-BETA
+export HUGO_THEME_VERSION="0.5.3-BETA"
 
 if [ "x${HUGO_BASE_URL}" == "x" ]; then
   echo "the HUGO_BASE_URL env. var. is not defined, stopping the hugo project spawn"
@@ -46,7 +33,6 @@ mkdir static/
 mkdir assets/
 mkdir layouts/
 mkdir resources/
-
 
 # cp -rT ${TEMP_SPAWN_HOME}/content ./content
 cp -fR ${TEMP_SPAWN_HOME}/content/* ./content/
@@ -194,6 +180,10 @@ echo '# Addon to us Bulma as integrated SCSS Processor' | tee -a ./config.toml
 echo '' | tee -a ./config.toml
 
 cat ./addon.config.yml | tee -a ./config.toml
+
+rm ./addon.config.yml
+
+rm -fr ./themes/${HUGO_THEME_NAME}/.git/
 
 export PATH=$PATH:/usr/local/go/bin && go version
 
