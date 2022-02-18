@@ -4,80 +4,82 @@ title: "[Git-300]"
 weight: 155
 ---
 
-**Hugo-theme-learn** has been built to be as configurable as possible by defining multiple [partials](https://gohugo.io/templates/partials/)
+#### (Git en 300 secondes)
 
-In `themes/hugo-theme-learn/layouts/partials/`, you will find all the partials defined for this theme. If you need to overwrite something, don't change the code directly. Instead [follow this page](https://gohugo.io/themes/customizing/). You'd create a new partial in the `layouts/partials` folder of your local project. This partial will have the priority.
+**Hugo-theme-learn** a été conçu pour être aussi configurable que possible en définissant plusieurs [partials](https://gohugo.io/templates/partials/)
 
-This theme defines the following partials :
+Dans `themes/hugo-theme-learn/layouts/partials/`, vous pourrez trouver tous les *partials* définis pour ce thème. Si vous avez besoin d'écraser quelque chose, ne modifiez pas le code directement. A la place, [suivez cette page](https://gohugo.io/themes/customizing/). Vous créerez alors un nouveau *partial* dans le dossier `layouts/partials` de votre site local. Ce *partial* aura la priorité.
 
-- *header*: the header of the content page (contains the breadcrumbs). _Not meant to be overwritten_
-- *custom-header*: custom headers in page. Meant to be overwritten when adding CSS imports. Don't forget to include `style` HTML tag directive in your file
-- *footer*: the footer of the content page (contains the arrows). _Not meant to be overwritten_
-- *custom-footer*:  custom footer in page. Meant to be overwritten when adding Javacript. Don't forget to include `javascript` HTML tag directive in your file
-- *favicon*: the favicon
-- *logo*: the logo, on top left hand corner.
-- *meta*: HTML meta tags, if you want to change default behavior
-- *menu*: left menu. _Not meant to be overwritten_
-- *menu-footer*: footer of the the left menu
-- *search*: search box
-- *toc*: table of contents
+Ce thème définit les *partials* suivant :
 
-## Change the logo
+- *header*: l'en-tête de la page page (contient le fil d'Ariane). _Pas voué à être écrasé_
+- *custom-header*: En-tête personnalisé. Voué à être écrasé quand vous ajoutez des imports CSS. N'oubliez pas d'inclure la balise HTML `style` dans votre fichier
+- *footer*: le pied-de-page de la page (contains les flèches). _Pas voué à être écrasé_
+- *custom-footer*:  Pied-de-page personnalisé. Voué à être écrasé quand vous ajoutez du Javascript. N'oubliez pas d'inclure la balise HTML `javascript` dans votre fichier
+- *favicon*: le favicon
+- *logo*: le logo, affiché un haut à gauche.
+- *meta*: les balises HTML meta, que vous pouvez écraser sans problème.
+- *menu*: Le menu à gauche. _Pas voué à être écrasé_
+- *menu-footer*: Le pied-de-page du menu
+- *search*: le champ de recherche
+- *toc*: le sommaire
 
-Create a new file in `layouts/partials/` named `logo.html`. Then write any HTML you want.
-You could use an `img` HTML tag and reference an image created under the *static* folder, or you could paste a SVG definition !
+## Changer le logo
+
+Créez un nouveau fichier dans `layouts/partials/`, nommé `logo.html`. Puis, écrivez le code HTML voulu.
+Vous pourriez utiliser une balise HTML `img` et référencer une image créée dans le dossier *static*, voire même y coller un code SVG !
 
 {{% notice note %}}
-The size of the logo will adapt automatically
+La taille du logo va s'adapter automatiquement
 {{% /notice %}}
 
-## Change the favicon
+## Changer le favicon
 
-If your favicon is a png, just drop off your image in your local `static/images/` folder and name it `favicon.png`
+Si votre favicon est un png, déposez votre image dans votre dossier local `static/images/` et nommez le `favicon.png`
 
-If you need to change this default behavior, create a new file in `layouts/partials/` named `favicon.html`. Then write something like this:
+Si vous avez besoin de changer ce comportement par défaut, créer un nouveau fichier dans `layouts/partials/` et nommez le `favicon.html`. Puis ajoutez quelque chose comme:
 
 ```html
 <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
 ```
 
-## Change default colors {#theme-variant}
+## Changer les couleurs par défaut {#theme-variant}
 
-**Hugo Learn theme** let you choose between 3 native color scheme variants, but feel free to add one yourself ! Default color scheme is based on [Grav Learn Theme](https://learn.getgrav.org/).
+**Hugo Learn theme** vous permet de choisir nativement entre 3 schéma de couleurs, mais n'hésitez pas à en ajouter d'autres ! Les couleurs par défaut sont celles de [Grav Learn Theme](https://learn.getgrav.org/).
 
-### Red variant
+### Variante rouge
 
 ```toml
 [params]
-  # Change default color scheme with a variant one. Can be "red", "blue", "green".
+  # Modifier le schéma de couleur par défaut. Peut être "red", "blue", "green".
   themeVariant = "red"
 ```
 
-![Red variant](/en/basics/style-customization/images/red-variant.png?width=60pc)
+![Variante rouge](/en/basics/style-customization/images/red-variant.png?width=60pc)
 
-### Blue variant
+### Variante bleue
 
 ```toml
 [params]
-  # Change default color scheme with a variant one. Can be "red", "blue", "green".
+  # Modifier le schéma de couleur par défaut. Peut être "red", "blue", "green".
   themeVariant = "blue"
 ```
 
-![Blue variant](/en/basics/style-customization/images/blue-variant.png?width=60pc)
+![Variante bleue](/en/basics/style-customization/images/blue-variant.png?width=60pc)
 
-### Green variant
+### Variante verte
 
 ```toml
 [params]
-  # Change default color scheme with a variant one. Can be "red", "blue", "green".
+  # Modifier le schéma de couleur par défaut. Peut être "red", "blue", "green".
   themeVariant = "green"
 ```
 
-![Green variant](/en/basics/style-customization/images/green-variant.png?width=60pc)
+![Variante verte](/en/basics/style-customization/images/green-variant.png?width=60pc)
 
-### 'Yours‘ variant
+### Votre variante
 
-First, create a new CSS file in your local `static/css` folder prefixed by `theme` (e.g. with _mine_ theme `static/css/theme-mine.css`). Copy the following content and modify colors in CSS variables.
+Premièrement, créez un nouveau fichier CSS dans votre dossier `static/css`, préfixé par `theme` (ex: avec le theme_lemien_ `static/css/theme-lemien.css`). Copiez le contenu suivant et modifiez les couleurs dans les variables CSS.
 
 ```css
 
@@ -185,10 +187,10 @@ a:hover {
 }
 ```
 
-Then, set the `themeVariant` value with the name of your custom theme file. That's it !
+Puis, configurez le paramètre `themeVariant` avec le nom de votre variante. C'est tout !
 
 ```toml
 [params]
-  # Change default color scheme with a variant one. Can be "red", "blue", "green".
-  themeVariant = "mine"
+  # Modifier le schéma de couleur par défaut. Peut être "red", "blue", "green".
+  themeVariant = "lemien"
 ```
