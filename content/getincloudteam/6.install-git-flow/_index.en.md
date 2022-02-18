@@ -1,8 +1,9 @@
 ---
 title: "Install the Git Flow"
-weight: 204
+weight: 206
 disableToc: true
 ---
+
 
 #### The Idea of the Git Flow
 

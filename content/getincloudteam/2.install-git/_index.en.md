@@ -1,6 +1,6 @@
 ---
 title: "Install Git"
-weight: 102
+weight: 202
 disableToc: true
 ---
 
