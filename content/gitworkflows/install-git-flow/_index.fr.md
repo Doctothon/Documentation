@@ -45,25 +45,12 @@ You have [installed git for windows](/fr/gitworkflows/install-git/)
 * https://datasift.github.io/gitflow/IntroducingGitFlow.html
 
 
-{{< carousel
-      video1_url = "https://www.youtube.com/watch?v=BYrt6luynCI"
-
-      video2_url = "https://www.youtube.com/watch?v=rX80eKPdA28"
-
-      video3_url = "https://www.youtube.com/watch?v=1SXpE08hvGs"
-
-      video4_url = "https://www.youtube.com/watch?v=6LhTe8Mz6jM"
-
-
-
-      video5_url = "https://www.youtube.com/watch?v=WQuxeEvaCxs"
-
-      video6_url = "https://www.youtube.com/watch?v=iT3CNMct2C8"
-
-      video7_url = "https://www.youtube.com/watch?v=OyG_ilC2iZc"
-
-      video8_url = "https://www.youtube.com/watch?v=xgo60yhetZk"
-
-      video9_url = "https://www.youtube.com/watch?v=gW6dFpTMk8s"
-
->}}
+{{< youtubevideo id="BYrt6luynCI" >}}
+{{< youtubevideo id="rX80eKPdA28" >}}
+{{< youtubevideo id="1SXpE08hvGs" >}}
+{{< youtubevideo id="6LhTe8Mz6jM" >}}
+{{< youtubevideo id="WQuxeEvaCxs" >}}
+{{< youtubevideo id="iT3CNMct2C8" >}}
+{{< youtubevideo id="OyG_ilC2iZc" >}}
+{{< youtubevideo id="xgo60yhetZk" >}}
+{{< youtubevideo id="gW6dFpTMk8s" >}}

@@ -4,9 +4,7 @@ weight: 205
 disableToc: true
 ---
 
-# Configure _the_ `Git`
-
-* Execute the below commands, **after** you changed the values of **at least** `YOUR_GITHUB_USER_NAME`, `YOUR_GIT_USERNAME`, and `YOUR_GIT_USEREMAIL` (you may change other values if you understand what yopu are doing, but they are optional) :
+* Execute the below commands, **after** you changed the values of **at least** `YOUR_GITHUB_USER_NAME`, `YOUR_GIT_USERNAME`, and `YOUR_GIT_USEREMAIL` (you may change other values if you understand what you are doing, but they are optional) :
 
 ```bash
 # -+- #

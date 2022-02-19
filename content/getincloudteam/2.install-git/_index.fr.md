@@ -4,7 +4,6 @@ weight: 202
 disableToc: true
 ---
 
-# Install _the_ `Git`
 
 ## `Windows`
 

@@ -10,13 +10,13 @@ The Git flow, is a concept, an idea of how to manage collaboration between engin
 
 We at doctothon, believe in proved science, so instead of discussing the git flow, let us takle through using it, and we discuss when ideas and questions pop up. :hammer:
 
-But well, if you feel like, have a look at the references section at bottom of this page, you'll find reading and watching material.
+But well, if you feel like, have a look at [the references section at bottom of this page](/fr/getincloudteam/6.install-git-flow/#references), you'll find reading and watching material.
 
 The Git flow, is a concept, and several sofftwares implemented that concept. For example, here below are two different softwares, which implement that concept (do not install any of them yet!) :
 * https://formulae.brew.sh/formula/git-flow-avh#default
 * https://formulae.brew.sh/formula/git-flow#default
 
-I want to inisist those above are 2 different softwares, for one very important, fundamental, reason : they are not built from the same source code, not even two different versions of the same versioned source code.
+I want to inisist those above are 2 different softwares, for one very important, fundamental, reason : they are _**not**_ built from the same source code, not even two different versions of the same versioned source code.
 
 
 At least 90% if npt 100% of world uses ONE SPECIFIC software, which implements the Git flow : the [`Git Flow AVH Edition`](https://github.com/petervanderdoes/gitflow-avh)
@@ -44,26 +44,12 @@ You have [installed git for windows](/fr/gitworkflows/install-git/)
 
 * https://datasift.github.io/gitflow/IntroducingGitFlow.html
 
-
-{{< carousel
-      video1_url = "https://www.youtube.com/watch?v=BYrt6luynCI"
-
-      video2_url = "https://www.youtube.com/watch?v=rX80eKPdA28"
-
-      video3_url = "https://www.youtube.com/watch?v=1SXpE08hvGs"
-
-      video4_url = "https://www.youtube.com/watch?v=6LhTe8Mz6jM"
-
-
-
-      video5_url = "https://www.youtube.com/watch?v=WQuxeEvaCxs"
-
-      video6_url = "https://www.youtube.com/watch?v=iT3CNMct2C8"
-
-      video7_url = "https://www.youtube.com/watch?v=OyG_ilC2iZc"
-
-      video8_url = "https://www.youtube.com/watch?v=xgo60yhetZk"
-
-      video9_url = "https://www.youtube.com/watch?v=gW6dFpTMk8s"
-
->}}
+{{< youtubevideo id="BYrt6luynCI" >}}
+{{< youtubevideo id="rX80eKPdA28" >}}
+{{< youtubevideo id="1SXpE08hvGs" >}}
+{{< youtubevideo id="6LhTe8Mz6jM" >}}
+{{< youtubevideo id="WQuxeEvaCxs" >}}
+{{< youtubevideo id="iT3CNMct2C8" >}}
+{{< youtubevideo id="OyG_ilC2iZc" >}}
+{{< youtubevideo id="xgo60yhetZk" >}}
+{{< youtubevideo id="gW6dFpTMk8s" >}}
